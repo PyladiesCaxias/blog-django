@@ -32,7 +32,7 @@ Instalando as dependências do projeto:
 ```
 cd <repo-path>
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requeriments.txt
 ```
 
 ## Executando o projeto local
